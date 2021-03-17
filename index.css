@@ -12,6 +12,14 @@
                                     /* Prevent scroll on narrow devices */
                                 }
                                 
+                                #bare {
+                                    margin-top: 72px !important;
+                                }
+                                
+                                #myCarousel {
+                                    margin-top: 50px !important;
+                                }
+                                
                                 @media (max-width: 991.98px) {
                                     .offcanvas-collapse {
                                         position: fixed;
